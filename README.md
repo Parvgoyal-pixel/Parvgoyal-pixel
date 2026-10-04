@@ -1,38 +1,71 @@
+<!-- ANIMATED HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=80&section=header"/>
+</p>
+
+<!-- TERMINAL STYLE LAYOUT: ASCII ART (left) | INFO PANEL (right) -->
+<table>
+<tr>
+<td width="45%" valign="top">
+
+<!-- Your GitHub avatar rendered as ASCII art via gh-ascii -->
+<picture>
+  <img
+    src="https://gh-ascii.vercel.app/Parvgoyal-pixel?darkMode=true"
+    alt="Parv ASCII Art"
+    width="100%"
+  />
+</picture>
+
+</td>
+<td width="55%" valign="top">
+
 ```
-                                                         Parvgoyal-pixel@github
-   ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗         ───────────────────────────────────────
-  ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗        OS:         Windows 11
-  ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝        Uptime:     20 years, still debugging...
-  ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗        Shell:      PowerShell + VS Code
-  ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝        IDE:        VS Code, Android Studio & more
-   ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝        Resolution: 1920x1080 (caffeine-powered)
+Parvgoyal-pixel@github
+───────────────────────────────────────
+OS:         Windows 11
+Uptime:     20 years, still debugging...
+Shell:      PowerShell + VS Code
+IDE:        VS Code, Android Studio & more
+Resolution: 1920x1080 (caffeine-powered)
 
-                                                         ───────────────────────────────────────
-              ◦  ●  ◦  ●  ◦  ●  ◦  ●  ◦                Languages.Programming: ....  Python, JavaScript
-                                                         Languages.Web: ............  HTML, CSS, React, Next.js
-   ╔══════════════════════════════════════╗              Languages.Mobile: .........  Flutter, Dart
-   ║                                      ║              Languages.Stack: ...........  MERN (MongoDB, Express,
-   ║   "Code is poetry written in logic"  ║                                            React, Node.js)
-   ║                                      ║              Languages.AI: ..............  Python (ML/AI)
-   ╚══════════════════════════════════════╝
-                                                         ───────────────────────────────────────
-                                                         Hobbies.Software: .....  Building Web & Mobile Apps
-                                                         Hobbies.AI: ...........  Exploring ML & AI Models
-                                                         Hobbies.Creation: .....  Open Source, Side Projects
+───────────────────────────────────────
+Languages.Programming: ....  Python, JavaScript
+Languages.Web: ............  HTML, CSS, React, Next.js
+Languages.Mobile: .........  Flutter, Dart
+Languages.Stack: ..........  MERN (MongoDB, Express,
+                              React, Node.js)
+Languages.AI: .............  Python (ML/AI)
 
-                                                         ───────────────────────────────────────
-                                                       - Contact ──────────────────────────────
-                                                         GitHub:   ..............  github.com/Parvgoyal-pixel
-                                                         LinkedIn: ..............  linkedin.com/in/parv-goyal-baa863322
-                                                         Email:    ..............  goyalparv148@gmail.com
+───────────────────────────────────────
+Hobbies.Software: ....  Building Web & Mobile Apps
+Hobbies.AI: ..........  Exploring ML & AI Models
+Hobbies.Creation: ....  Open Source, Side Projects
 
-                                                         ───────────────────────────────────────
-                                                       - GitHub Stats ─────────────────────────
-                                                         Repos:    ....................  🔢 see below
-                                                         Commits:  ....................  ⚡ see below
-                                                         Followers: ...................  👥 see below
-                                                         Top Lang: ....................  🐍 Python / JS
+───────────────────────────────────────
+- Contact ──────────────────────────────
+  GitHub:   ........  github.com/Parvgoyal-pixel
+  LinkedIn: ........  linkedin.com/in/parv-goyal-baa863322
+  Email:    ........  goyalparv148@gmail.com
+
+───────────────────────────────────────
+- GitHub Stats ─────────────────────────
+  Repos:    ..............  🔢 see below
+  Commits:  ..............  ⚡ see below
+  Followers: .............  👥 see below
+  Top Lang: ..............  🐍 Python / JS
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Dart+Mobile+Dev+%F0%9F%93%B1;MERN+Stack+Engineer+%F0%9F%94%A5;AI+%2F+ML+Explorer+%F0%9F%A4%96;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -71,7 +104,11 @@
   <img src="https://raw.githubusercontent.com/Parvgoyal-pixel/Parvgoyal-pixel/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- PROFILE VIEWS COUNTER -->
+<!-- FOOTER WAVE + PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Parvgoyal-pixel&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=80&section=footer"/>
 </p>
